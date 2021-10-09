@@ -29,8 +29,7 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG')
 
 ALLOWED_HOSTS = [
-    'https://nextjs-api-tomioka-k.herokuapp.com/',
-    '127.0.0.1',
+    'nextjs-api-tomioka-k.herokuapp.com',
 ]
 
 
