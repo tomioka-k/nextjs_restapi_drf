@@ -60,7 +60,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    'https://nextjs-blog-todos-ten-tau.vercel.app/'
+    'https://nextjs-blog-todos-ten-tau.vercel.app'
 ]
 
 SIMPLE_JWT = {
